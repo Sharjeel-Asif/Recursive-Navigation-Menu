@@ -1,0 +1,16 @@
+.display{
+  display: flex;
+}
+.tree-menu{
+  min-height: 90vh;
+  width: 350px;
+  background: rgba(0,71,110);
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 1.5rem;
+  list-style: none;
+  padding: 1rem;
+}
+.Good{
+  list-style: none;
+}
